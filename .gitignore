@@ -1,0 +1,5 @@
+bin/
+build/
+component/
+vendor/
+node_modules/

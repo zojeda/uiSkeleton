@@ -1,0 +1,14 @@
+{
+  "name": "uiSkeleton",
+  "version": "0.0.1",
+  "_comment": "Any dependencies added here require a manual edit to vendor_files in /Gruntfile.js and (??? verify the following) /build/karma-unit.js (e.g 'vendor/angular-resource/angular-resource.js')",
+  "devDependencies": {
+    "angular": "~1.3.14",
+    "angular-mocks": "~1.3.14",
+    "angular-ui-router": "~0.2.13",
+    "application-model": "zojeda/application-model#~0.1.0"
+  },
+  "dependencies": {
+
+  }
+}
